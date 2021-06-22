@@ -27,5 +27,8 @@ Here's a list of steps you can take:
    method.
 </details>
 
+## Credits
 
+Code adapted from the "Clean Code In the Browser" series, by Chris Powers.
 
+https://cleancoders.com/series/clean-code-in-the-browser
